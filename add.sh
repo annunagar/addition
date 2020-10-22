@@ -1,6 +1,6 @@
 #!/bin/bash -x
 a=4
-b=
+b=6
 echo "enter 2 numbers"
 read a
 read b
