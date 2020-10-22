@@ -7,3 +7,5 @@ read b
 sum=$($a+$b)
 echo $sum
 echo "annu nagar"
+sub=$($a-$b)
+echo $sub
